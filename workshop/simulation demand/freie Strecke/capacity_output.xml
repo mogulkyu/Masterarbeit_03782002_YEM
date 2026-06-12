@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-04-28T08:25:25.041649+01:00 by Eclipse SUMO sumo 1.25.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="capacity.net.xml"/>
+        <route-files value="capacity.rou.xml"/>
+        <additional-files value="capacity.add.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="capacity_summary.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+    </report>
+
+</sumoConfiguration>
+-->
+
+<meandata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/meandata_file.xsd">
+    <interval begin="0.00" end="3600.00" id="messung_stunde">
+        <edge id="strasse" sampledSeconds="104513.36" traveltime="88.51" overlapTraveltime="88.91" density="28.93" overlapDensity="29.03" laneDensity="28.93" occupancy="14.49" waitingTime="3.00" timeLoss="15845.83" speed="11.30" speedRelative="0.81" departed="1198" arrived="1169" entered="0" left="0" laneChangedFrom="0" laneChangedTo="0" flow="1177.28"/>
+    </interval>
+</meandata>

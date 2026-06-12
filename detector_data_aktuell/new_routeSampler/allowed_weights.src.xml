@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgedata>
+    <interval begin="0.00" end="3600.00">
+        <edge id="-26202222#0" value="1"/>
+        <edge id="-202157703" value="1"/>
+        <edge id="-1182936853" value="1"/>
+        <edge id="-1183449794" value="1"/>
+        <edge id="-13831317#2" value="1"/>
+        <edge id="-25563346#2" value="1"/>
+        <edge id="-887834727" value="1"/>
+        <edge id="-203986456#0" value="1"/>
+        <edge id="22293941" value="1"/>
+        <edge id="-1223307222" value="1"/>
+        <edge id="-1223307220" value="1"/>
+        <edge id="-1223307221" value="1"/>
+        <edge id="887834724" value="1"/>
+        <edge id="-887834726" value="1"/>
+        <edge id="-14811373#0" value="1"/>
+        <edge id="-308681382#1" value="1"/>
+        <edge id="-81920369" value="1"/>
+        <edge id="-14811364#0" value="1"/>
+        <edge id="-30932095#1" value="1"/>
+        <edge id="22293947" value="1"/>
+        <edge id="145057839#2" value="1"/>
+        <edge id="125964106" value="1"/>
+        <edge id="281402232" value="1"/>
+        <edge id="237921036" value="1"/>
+        <edge id="-180801664" value="1"/>
+    </interval>
+</edgedata>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <vehicle id="manual_01" depart="300.00">
+        <route edges="-1182936853 26202222#0"/>
+    </vehicle>
+    <vehicle id="manual_02" depart="600.00">
+        <route edges="-1182936853 12528053#0"/>
+    </vehicle>
+    <vehicle id="manual_03" depart="900.00">
+        <route edges="-13831317#2 -13831317#2.34 14811377 202157700#0 202157700#3 893429999#1"/>
+    </vehicle>
+    <vehicle id="manual_04" depart="1200.00">
+        <route edges="-13831317#2 -13831317#2.34 14811377 202157700#0 202157700#3 26202222#0"/>
+    </vehicle>
+    <vehicle id="manual_05" depart="1500.00">
+        <route edges="-13831317#2 -13831317#2.34 14811377 202157700#0 202157700#3 12528053#0"/>
+    </vehicle>
+    <vehicle id="manual_06" depart="1800.00">
+        <route edges="-13831317#2.34 17707991#0"/>
+    </vehicle>
+    <vehicle id="manual_07" depart="2100.00">
+        <route edges="-13831317#2 -13831317#2.34 25563346#0"/>
+    </vehicle>
+    <vehicle id="manual_08" depart="2400.00">
+        <route edges="-202157703 893429999#1"/>
+    </vehicle>
+    <vehicle id="manual_09" depart="2700.00">
+        <route edges="-25563346#2 13831317#0"/>
+    </vehicle>
+    <vehicle id="manual_10" depart="3000.00">
+        <route edges="-26202222#0 -26202222#0.41 893429999#1"/>
+    </vehicle>
+    <vehicle id="manual_11" depart="3300.00">
+        <route edges="237921036 237921036.41 -281402235#1 -281402232"/>
+    </vehicle>
+</routes>

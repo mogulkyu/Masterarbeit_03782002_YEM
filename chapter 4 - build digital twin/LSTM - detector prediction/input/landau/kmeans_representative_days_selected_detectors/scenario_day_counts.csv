@@ -1,0 +1,6 @@
+scenario,n_days
+weekday_morning,21
+weekday_evening,20
+weekend_morning,8
+weekend_evening,8
+holiday,1

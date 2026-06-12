@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<additional>
+    <tlLogic id="9873" type="static" programID="derived_weekday_evening" offset="0">
+        <phase duration="24" state="GGGrrrgrrrr"/>
+        <phase duration="24" state="GGgrrrgGGrr"/>
+        <phase duration="3" state="GGGrrrgyyrr"/>
+        <phase duration="1" state="yyyrrrgyyrr"/>
+        <phase duration="4" state="rrrrrrgrrrr"/>
+        <phase duration="22" state="rrrGGGgrrGG"/>
+        <phase duration="3" state="rrryyygrryy"/>
+        <phase duration="1" state="rrryyygrryy"/>
+        <phase duration="4" state="rrrrrrgrrrr"/>
+    </tlLogic>
+</additional>

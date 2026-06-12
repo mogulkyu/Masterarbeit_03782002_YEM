@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<data>
+  <interval id="weekday_morning" begin="0.0" end="3600.0">
+    <edgeRelation from="-1182936853" to="12528053#0" count="117"/>
+    <edgeRelation from="-1182936853" to="26202222#0" count="35"/>
+    <edgeRelation from="-13831317#2.34" to="-84620353#2" count="82"/>
+    <edgeRelation from="-13831317#2.34" to="14811377" count="40"/>
+    <edgeRelation from="-13831317#2.34" to="17707991#0" count="4"/>
+    <edgeRelation from="-13831317#2.34" to="25563346#0" count="4"/>
+    <edgeRelation from="-202157703" to="-202157700#5" count="179"/>
+    <edgeRelation from="-202157703" to="893429999#1" count="259"/>
+    <edgeRelation from="-202234344" to="-237921036" count="128"/>
+    <edgeRelation from="-202234344" to="-281402235#1" count="135"/>
+    <edgeRelation from="-202234344" to="59617619" count="541"/>
+    <edgeRelation from="-237921040" to="-281402232" count="180" via="-59617619 -281402235#1"/>
+    <edgeRelation from="-25563346#2" to="13831317#0" count="44"/>
+    <edgeRelation from="-26202222#0.41" to="-202157700#5" count="313"/>
+    <edgeRelation from="-26202222#0.41" to="893429999#1" count="47"/>
+    <edgeRelation from="-59617619" to="-237921036" count="267"/>
+    <edgeRelation from="-59617619" to="12695647" count="577"/>
+    <edgeRelation from="202157700#3" to="12528053#0" count="155"/>
+    <edgeRelation from="202157700#3" to="26202222#0" count="243"/>
+    <edgeRelation from="202157700#3" to="893429999#1" count="20"/>
+    <edgeRelation from="237921036.41" to="-281402235#1" count="70"/>
+    <edgeRelation from="237921036.41" to="12695647" count="140"/>
+    <edgeRelation from="237921036.41" to="59617619" count="251"/>
+  </interval>
+</data>

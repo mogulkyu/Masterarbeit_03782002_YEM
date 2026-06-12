@@ -1,0 +1,3 @@
+scenario,representative_day,reason
+holiday_morning,2025-06-09,"Only one holiday was available, so no clustering was applied."
+holiday_evening,2025-06-09,"Only one holiday was available, so no clustering was applied."

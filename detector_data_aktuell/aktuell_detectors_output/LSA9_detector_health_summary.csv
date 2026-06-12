@@ -1,0 +1,12 @@
+﻿approach,group,detector_id,detector_name,n_days,days_present,total_timeframes,count_nonzero_days,occupancy_nonzero_days,speed_nonzero_days,count_all_zero_days,occupancy_all_zero_days,speed_all_zero_days,total_count,total_occupancy,total_speed,min_confidence,mean_confidence,count_invalid_samples,occupancy_invalid_samples,speed_invalid_samples,final_suggestion
+East,Entry,8,VD31,32,32,3038,32,32,0,0,0,32,169311.0,99411.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO
+East,Entry,9,VD32,32,32,3038,32,32,0,0,0,32,111644.0,43419.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO
+Middle,Internal,11,VD51,32,32,3038,32,32,0,0,0,32,89356.0,42830.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO
+North-East,Suspicious,3,WD21,32,32,3038,32,32,0,0,0,32,3805.0,4327.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO
+North-West,Entry,4,WD22,32,32,3038,32,32,0,0,0,32,36615.0,99759.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO
+North-West,Entry,5,WD23,32,32,3038,32,32,0,0,0,32,24665.0,81496.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO
+North-West,Entry,6,VD24,32,32,3038,32,32,0,0,0,32,52992.0,66406.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO
+North-West,Entry,7,VD25,32,32,3038,32,32,0,0,0,32,60302.0,37714.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO
+South,Entry,10,WD41,32,32,3038,32,32,0,0,0,32,7767.0,8444.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO
+West,Entry,1,VD11,32,32,3038,32,32,0,0,0,32,110473.0,115175.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO
+West,Entry,2,VD12,32,32,3038,32,32,0,0,0,32,146822.0,96473.0,0.0,100.0,100.0,0,0,0,COUNT_OK_SPEED_ZERO

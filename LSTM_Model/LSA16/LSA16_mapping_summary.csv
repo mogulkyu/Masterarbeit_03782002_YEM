@@ -1,0 +1,7 @@
+﻿lsa,approach,street_name,detector_ids,direction_type
+LD-LSA16,west,Schloßstraße,"4, 3",inflow
+LD-LSA16,south,Weißenburger Straße,"33, 2, 1",inflow
+LD-LSA16,east,Schloßstraße,"10, 11",inflow
+LD-LSA16,north,Xylanderstraße,"6, 7",inflow
+LD-LSA16,east_exit,,15,outflow
+LD-LSA16,west_to_LSA10,,13,outflow

@@ -1,0 +1,4 @@
+<routes>
+    <vType id="pkw" accel="2.6" decel="4.5" sigma="0.5" length="5" minGap="2.5" maxSpeed="13.89"/>
+    <flow id="f1" type="pkw" begin="0" end="3600" vehsPerHour="3000" from="strasse" to="strasse"/>
+</routes>

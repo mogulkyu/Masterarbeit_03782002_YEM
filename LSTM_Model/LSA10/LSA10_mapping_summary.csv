@@ -1,0 +1,6 @@
+﻿lsa,approach,street_name,detector_ids,direction_type
+LD-LSA10,west,Schloßstraße,1,inflow
+LD-LSA10,south,Bismarckstraße,31,inflow
+LD-LSA10,east,Marienring,"3, 4",inflow
+LD-LSA10,north_west,Karl-Sauer-Straße,29,inflow
+LD-LSA10,north_east,Südring,"27, 26",inflow

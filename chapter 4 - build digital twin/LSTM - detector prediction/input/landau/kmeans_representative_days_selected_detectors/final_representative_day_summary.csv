@@ -1,0 +1,7 @@
+scenario,best_k,n_days_used,main_cluster,main_cluster_size,final_representative_day
+holiday_evening,,1,,1,2025-06-09
+holiday_morning,,1,,1,2025-06-09
+weekday_evening,3.0,20,0.0,14,2025-06-19
+weekday_morning,2.0,21,0.0,20,2025-06-17
+weekend_evening,4.0,8,0.0,2,2025-06-07
+weekend_morning,3.0,8,0.0,4,2025-06-21

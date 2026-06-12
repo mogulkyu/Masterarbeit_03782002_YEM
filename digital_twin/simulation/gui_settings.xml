@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<viewsettings> 
+  <decals> 
+    <decal file="geoportal/1000.jpg" centerX="2619.651845257671" centerY="922.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1001.jpg" centerX="2719.651845257671" centerY="922.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1002.jpg" centerX="2619.651845257671" centerY="1022.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1003.jpg" centerX="2719.651845257671" centerY="1022.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1004.jpg" centerX="2819.651845257671" centerY="1022.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1005.jpg" centerX="2919.651845257671" centerY="1022.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1006.jpg" centerX="3019.651845257671" centerY="1022.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1007.jpg" centerX="2719.651845257671" centerY="1122.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1008.jpg" centerX="2819.651845257671" centerY="1122.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1009.jpg" centerX="2919.651845257671" centerY="1122.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1010.jpg" centerX="3019.651845257671" centerY="1122.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1011.jpg" centerX="3119.651845257671" centerY="1122.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1012.jpg" centerX="3219.651845257671" centerY="1122.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1013.jpg" centerX="3319.651845257671" centerY="1122.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1014.jpg" centerX="3419.651845257671" centerY="1122.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1015.jpg" centerX="3619.651845257671" centerY="1122.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1016.jpg" centerX="2919.651845257671" centerY="1222.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1017.jpg" centerX="3019.651845257671" centerY="1222.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1018.jpg" centerX="3119.651845257671" centerY="1222.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1019.jpg" centerX="3219.651845257671" centerY="1222.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1020.jpg" centerX="3319.651845257671" centerY="1222.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1021.jpg" centerX="3419.651845257671" centerY="1222.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1022.jpg" centerX="3519.651845257671" centerY="1222.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1023.jpg" centerX="3619.651845257671" centerY="1222.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1024.jpg" centerX="3819.651845257671" centerY="1222.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1025.jpg" centerX="3919.651845257671" centerY="1222.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1026.jpg" centerX="3019.651845257671" centerY="1322.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1027.jpg" centerX="3119.651845257671" centerY="1322.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1028.jpg" centerX="3419.651845257671" centerY="1322.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1029.jpg" centerX="3519.651845257671" centerY="1322.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1030.jpg" centerX="3619.651845257671" centerY="1322.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1031.jpg" centerX="3719.651845257671" centerY="1322.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1032.jpg" centerX="3819.651845257671" centerY="1322.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1033.jpg" centerX="3019.651845257671" centerY="1422.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1034.jpg" centerX="3119.651845257671" centerY="1422.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1035.jpg" centerX="3219.651845257671" centerY="1422.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1036.jpg" centerX="3519.651845257671" centerY="1422.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1037.jpg" centerX="3619.651845257671" centerY="1422.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1038.jpg" centerX="3119.651845257671" centerY="1522.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1039.jpg" centerX="3219.651845257671" centerY="1522.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1040.jpg" centerX="3319.651845257671" centerY="1522.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1041.jpg" centerX="3519.651845257671" centerY="1522.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1042.jpg" centerX="3619.651845257671" centerY="1522.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1043.jpg" centerX="3119.651845257671" centerY="1622.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1044.jpg" centerX="3219.651845257671" centerY="1622.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1045.jpg" centerX="3619.651845257671" centerY="1622.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1046.jpg" centerX="3119.651845257671" centerY="1722.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1047.jpg" centerX="3219.651845257671" centerY="1722.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1048.jpg" centerX="3519.651845257671" centerY="1722.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1049.jpg" centerX="3619.651845257671" centerY="1722.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1050.jpg" centerX="3019.651845257671" centerY="1822.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1051.jpg" centerX="3119.651845257671" centerY="1822.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1052.jpg" centerX="3519.651845257671" centerY="1822.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1053.jpg" centerX="3619.651845257671" centerY="1822.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1054.jpg" centerX="3019.651845257671" centerY="1922.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1055.jpg" centerX="3119.651845257671" centerY="1922.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1056.jpg" centerX="3219.651845257671" centerY="1922.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1057.jpg" centerX="3519.651845257671" centerY="1922.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1058.jpg" centerX="3019.651845257671" centerY="2022.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1059.jpg" centerX="3519.651845257671" centerY="2022.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1060.jpg" centerX="3619.651845257671" centerY="2022.3117574639618" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1061.jpg" centerX="3519.651845257671" centerY="2122.311757463962" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1062.jpg" centerX="3619.651845257671" centerY="2122.311757463962" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1063.jpg" centerX="3519.651845257671" centerY="2222.311757463962" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>  
+    <decal file="geoportal/1064.jpg" centerX="3619.651845257671" centerY="2222.311757463962" centerZ="0.00" width="100.0" height="100.0" rotation="0.00" tilt="0.00" roll="0.00" layer="0.99"/>
+  </decals> 
+</viewsettings>

@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Raw signal state folders
+signal_states/LD-LSA1_f3ab061d-0269-4e8e-b475-f89af4aed051/
+signal_states/LD-LSA8_fb0a2f57-9872-49df-9323-f392b700d8ba/
+signal_states/LD-LSA9_e31ef6a7-ced8-42fe-9ac2-fef01677d7de/
+signal_states/LD-LSA10_719612af-2487-4771-941f-534a4f568272/
+signal_states/LD-LSA16_6c5e44f1-3aae-4c29-926c-8db5b61da400/
+signal_states/LD-LSA22_9185057e-494d-41af-8425-e5cc22982834/
+
+# Large raw/generated CSV files
+signal_states/**/*secondwise_states.csv
+LSTM_Model/historical_availability_analysis/historical_recent_raw_long.csv

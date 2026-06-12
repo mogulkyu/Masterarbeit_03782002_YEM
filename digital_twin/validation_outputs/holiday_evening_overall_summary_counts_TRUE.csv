@@ -1,0 +1,2 @@
+﻿scenario,total_real,total_sim,diff_sim_minus_real,mean_GEH,max_GEH,GEH_lt_5_share_percent
+holiday_evening,4295,3970.0,-325.0,1.5377137897648596,5.5377492419453835,99.13793103448276

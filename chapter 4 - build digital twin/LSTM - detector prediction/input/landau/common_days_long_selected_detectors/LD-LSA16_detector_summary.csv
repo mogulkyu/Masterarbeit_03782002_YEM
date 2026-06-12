@@ -1,0 +1,14 @@
+﻿detector_id,approach,street,direction_role,movement,position_note,n_rows,first_day,last_day,total_count
+1,south,Weißenburgerstraße,in,right,"most right lane, upstream 15m",2824,2025-05-26,2025-06-24,77984
+2,south,Weißenburgerstraße,in,straight,"middle lane, upstream 25m",2824,2025-05-26,2025-06-24,44335
+3,west,Schloßstraße,in,straight,close to stop line,2824,2025-05-26,2025-06-24,94997
+4,west,Schloßstraße,in,left,close to stop line,2824,2025-05-26,2025-06-24,15289
+5,west,Schloßstraße,in,straight+right,upstream 25m,2824,2025-05-26,2025-06-24,90218
+6,north,Xylanderstraße,in,right,upstream 20m,2824,2025-05-26,2025-06-24,23195
+7,north,Xylanderstraße,in,straight,upstream 30m,2824,2025-05-26,2025-06-24,53899
+10,east,Schloßstraße,in,straight+right,upstream 25m,2824,2025-05-26,2025-06-24,107776
+11,east,Schloßstraße,in,left,upstream 15m,2824,2025-05-26,2025-06-24,92299
+13,east,Schloßstraße,out,towards LSA10,downstream ~50m,2824,2025-05-26,2025-06-24,195391
+14,east,Schloßstraße,in,all/unspecified,upstream ~60m,2824,2025-05-26,2025-06-24,150717
+15,west,Schloßstraße,out,all,downstream ~65m,2824,2025-05-26,2025-06-24,155509
+33,south,Weißenburgerstraße,in,straight,"most left lane, upstream 25m",2824,2025-05-26,2025-06-24,47818

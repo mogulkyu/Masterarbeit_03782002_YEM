@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-04-27T10:50:40.560660+01:00 by Eclipse SUMO netconvert 1.26.0
+<netconvertConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <node-files value="capacity_tls.nod.xml"/>
+        <edge-files value="capacity_tls.edg.xml"/>
+    </input>
+
+    <output>
+        <output-file value="capacity_tls.net.xml"/>
+    </output>
+
+</netconvertConfiguration>
+-->
+
+<net version="1.20" junctionCornerDetail="5" limitTurnSpeed="5.50" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="0.00,0.00,1000.00,0.00" origBoundary="0.00,0.00,1000.00,0.00" projParameter="!"/>
+
+    <edge id=":ampel_0" function="internal">
+        <lane id=":ampel_0_0" index="0" speed="13.89" length="0.10" shape="500.00,-1.60 500.00,-1.60"/>
+    </edge>
+
+    <edge id="segment1" from="start" to="ampel" priority="-1">
+        <lane id="segment1_0" index="0" speed="13.89" length="500.00" shape="0.00,-1.60 500.00,-1.60"/>
+    </edge>
+    <edge id="segment2" from="ampel" to="ende" priority="-1">
+        <lane id="segment2_0" index="0" speed="13.89" length="500.00" shape="500.00,-1.60 1000.00,-1.60"/>
+    </edge>
+
+    <tlLogic id="ampel" type="static" programID="0" offset="0">
+        <phase duration="82" state="G"/>
+        <phase duration="3"  state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+
+    <junction id="ampel" type="traffic_light" x="500.00" y="0.00" incLanes="segment1_0" intLanes=":ampel_0_0" shape="500.00,0.00 500.00,-3.20 500.00,0.00">
+        <request index="0" response="0" foes="0" cont="0"/>
+    </junction>
+    <junction id="ende" type="dead_end" x="1000.00" y="0.00" incLanes="segment2_0" intLanes="" shape="1000.00,-3.20 1000.00,0.00"/>
+    <junction id="start" type="dead_end" x="0.00" y="0.00" incLanes="" intLanes="" shape="0.00,0.00 0.00,-3.20"/>
+
+    <connection from="segment1" to="segment2" fromLane="0" toLane="0" via=":ampel_0_0" tl="ampel" linkIndex="0" dir="s" state="O"/>
+
+    <connection from=":ampel_0" to="segment2" fromLane="0" toLane="0" dir="s" state="M"/>
+
+</net>

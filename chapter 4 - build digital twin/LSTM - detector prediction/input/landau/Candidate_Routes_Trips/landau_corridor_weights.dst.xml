@@ -1,0 +1,33 @@
+<edgedata>
+    <interval begin="0" end="3600">
+        <edge id="26202222#0" value="1"/>
+        <edge id="12528053#0" value="1"/>
+        <edge id="893429999#1" value="1"/>
+
+        <edge id="887834727" value="1"/>
+
+        <edge id="203986456#0" value="1"/>
+        <edge id="-51655434" value="1"/>
+
+        <edge id="1223307222" value="1"/>
+        <edge id="1223307220" value="1"/>
+        <edge id="1223307221" value="1"/>
+        <edge id="-887834724" value="1"/>
+        <edge id="887834726" value="1"/>
+
+        <edge id="14811373#0" value="1"/>
+        <edge id="308681382#0" value="1"/>
+        <edge id="202234067" value="1"/>
+
+        <edge id="14811364#0" value="1"/>
+        <edge id="30932095#1" value="1"/>
+        <edge id="-22293947" value="1"/>
+
+        <edge id="189315784#0" value="1"/>
+
+        <edge id="-281402232" value="1"/>
+        <edge id="-237921036" value="1"/>
+
+         <edge id="14811373#0" value="1"/>
+    </interval>
+</edgedata>

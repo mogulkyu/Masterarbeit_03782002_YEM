@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<data>
+  <interval id="holiday_morning" begin="0.0" end="3600.0">
+    <edge id="-1182936853" entered="32"/>
+    <edge id="-1183449794" entered="19"/>
+    <edge id="-13831317#2" entered="45"/>
+    <edge id="-202157700#5" entered="103"/>
+    <edge id="-202157703" entered="86"/>
+    <edge id="-202234344" entered="153"/>
+    <edge id="-237921040" entered="160"/>
+    <edge id="-25563346#2" entered="2"/>
+    <edge id="-26202222#0.41" entered="62"/>
+    <edge id="202157700#3" entered="91"/>
+    <edge id="237921036.41" entered="111"/>
+    <edge id="26202222#0" entered="73"/>
+    <edge id="75642281" entered="127"/>
+  </interval>
+</data>

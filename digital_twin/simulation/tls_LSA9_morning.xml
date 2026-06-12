@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<additional>
+    <tlLogic id="LSA9" type="static" programID="derived_weekday_morning_simplified" offset="0">
+
+        <!-- Transition / clearance before main release: 1 + 3 + 1 = 5 s -->
+        <phase duration="5" state="yyyyyrrrrrrrrrrrrryyyy"/>
+
+        <!-- North-East / North-West release, give-way on opposite right/turning links -->
+        <phase duration="7" state="GGGGGrrrrrrrrrrrrrgggg"/>
+
+        <!-- Transition + clearance: 3 + 6 + 1 = 10 s -->
+        <phase duration="10" state="yyyyyrrrrrrrrrrrrryyyy"/>
+
+        <!-- South release -->
+        <phase duration="11" state="rrrrrrrrrGGGGrrrrrrrrr"/>
+
+        <!-- South transition + clearance: 3 + 6 + 1 = 10 s -->
+        <phase duration="10" state="rrrrrrrrryyyyrrrrrrrrr"/>
+
+        <!-- East + West release, west-left yield links fixed as g -->
+        <phase duration="25" state="rrrrrGGGGrrrrGGGggrrrr"/>
+
+        <!-- Partial continuation / west-side extension -->
+        <phase duration="17" state="rrrrrrrrrrrrrGGGGGrrrr"/>
+
+        <!-- Transition / clearance before cycle repeat: 3 + 3 + 1 = 7 s -->
+        <phase duration="7" state="yyyyyrrrrrrrrrrrrryyyy"/>
+
+        <!-- North-East / North-West release, give-way on opposite right/turning links -->
+        <phase duration="7" state="GGGGGrrrrrrrrrrrrrgggg"/>
+
+        <!-- Final transition + clearance: 3 + 6 = 9 s -->
+        <phase duration="9" state="yyyyyrrrrrrrrrrrrryyyy"/>
+
+    </tlLogic>
+</additional>

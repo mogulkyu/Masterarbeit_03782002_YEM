@@ -1,0 +1,2 @@
+﻿scenario,total_real,total_sim,diff_sim_minus_real,mean_GEH,max_GEH,GEH_lt_5_share_percent
+weekend_evening,6295,5919.0,-376.0,1.4191561995751512,5.597618541248888,98.68421052631578

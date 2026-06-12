@@ -1,0 +1,10 @@
+﻿phase,pattern_K1_K2_K3_K4,K1,K2,K3,K4,K7,duration_s,sumo_state,description
+1,2-2-2-4,2,2,2,4,permissive_g,21,GGGrrrgrrrr,East-only release
+2,2-4-2-4,2,4,2,4,permissive_g,27,GGGrrrgGGrr,East-West release
+3,2-3-2-4,2,3,2,4,permissive_g,3,GGGrrrgyyrr,Transition
+4,2-5-2-5,2,5,2,5,permissive_g,1,yyyrrrgyyrr,Transition
+5,2-2-2-2,2,2,2,2,permissive_g,4,rrrrrrgrrrr,All-red / clearance
+6,4-2-4-2,4,2,4,2,permissive_g,23,rrrGGGgrrGG,North-South release
+7,3-2-3-2,3,2,3,2,permissive_g,3,rrryyygrryy,Transition
+8,5-2-5-2,5,2,5,2,permissive_g,1,rrryyygrryy,Transition
+9,2-2-2-2,2,2,2,2,permissive_g,4,rrrrrrgrrrr,All-red / clearance

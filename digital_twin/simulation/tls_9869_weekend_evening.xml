@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<additional>
+    <tlLogic id="9869" type="static" programID="derived_weekend_evening_simplified" offset="0">
+
+        <!-- K2 + K4 + K6 release -->
+        <phase duration="33" state="rrrGGGrrrGGr"/>
+
+        <!-- Transition: 3 + 1 = 4 s -->
+        <phase duration="4" state="rrryyyrrryyr"/>
+
+        <!-- Clearance -->
+        <phase duration="1" state="rrrrrrrrrrrr"/>
+
+        <!-- K6 + K7 + K8 release -->
+        <phase duration="22" state="GGGGrrrrrrrr"/>
+
+        <!-- Transition: 2 + 1 + 1 = 4 s -->
+        <phase duration="4" state="yyyyrrrrrrrr"/>
+
+        <!-- Clearance -->
+        <phase duration="1" state="rrrrrrrrrrrr"/>
+
+        <!-- K1 + K5 + K8 release -->
+        <phase duration="9" state="GrrrrrGrrrrG"/>
+
+        <!-- Transition: 3 + 3 + 1 = 7 s -->
+        <phase duration="7" state="yrrrrryrrrry"/>
+
+        <!-- Clearance -->
+        <phase duration="1" state="rrrrrrrrrrrr"/>
+
+    </tlLogic>
+</additional>

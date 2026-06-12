@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<additional>
+    <tlLogic id="9874" type="static" programID="derived_weekday_morning_simplified" offset="0">
+
+        <!-- K1 + K3 release -->
+        <phase duration="32" state="GrrrGrrr"/>
+
+        <!-- Transition -->
+        <phase duration="3" state="yrrryrrr"/>
+
+        <!-- Clearance -->
+        <phase duration="3" state="rrrrrrrr"/>
+
+        <!-- K2 + K5 release -->
+        <phase duration="23" state="rrGGrrGG"/>
+
+        <!-- Transition: 3 + 1 = 4 s -->
+        <phase duration="4" state="rryyrryy"/>
+
+        <!-- Clearance -->
+        <phase duration="3" state="rrrrrrrr"/>
+
+        <!-- K3 + K4 release -->
+        <phase duration="9" state="GGrrrrrr"/>
+
+        <!-- Transition: 3 + 1 = 4 s -->
+        <phase duration="4" state="yyrrrrrr"/>
+
+        <!-- Clearance -->
+        <phase duration="3" state="rrrrrrrr"/>
+
+        <!-- K1 + K6 release -->
+        <phase duration="9" state="rrrrGGrr"/>
+
+        <!-- Transition: 3 + 3 + 1 = 7 s -->
+        <phase duration="7" state="rrrryyrr"/>
+
+        <!-- Clearance -->
+        <phase duration="3" state="rrrrrrrr"/>
+
+    </tlLogic>
+</additional>

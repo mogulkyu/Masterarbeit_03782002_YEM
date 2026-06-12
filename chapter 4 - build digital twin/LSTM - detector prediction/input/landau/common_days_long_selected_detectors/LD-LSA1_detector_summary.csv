@@ -1,0 +1,15 @@
+﻿detector_id,approach,street,direction_role,movement,position_note,n_rows,first_day,last_day,total_count
+7,west,Rheinstraße,in,left,close to stop line,2787,2025-05-26,2025-06-24,76831
+8,west,Rheinstraße,in,left,upstream ~20m,2787,2025-05-26,2025-06-24,140327
+9,west,Rheinstraße,in,straight+right,close to stop line,2787,2025-05-26,2025-06-24,238877
+10,west,Rheinstraße,in,straight+right,upstream ~20m,2787,2025-05-26,2025-06-24,247812
+13,east,Rheinstraße,in,straight,"second lane from right, close to stop line",2787,2025-05-26,2025-06-24,93177
+14,east,Rheinstraße,in,straight+right,"most right lane, upstream ~20m",2787,2025-05-26,2025-06-24,241746
+23,east,Rheinstraße,in,straight,"third lane from right, close to stop line",2787,2025-05-26,2025-06-24,123219
+24,east,Rheinstraße,in,straight,upstream ~20m,2787,2025-05-26,2025-06-24,180235
+26,east,Rheinstraße,in,right,upstream ~20m,2787,2025-05-26,2025-06-24,53156
+27,east,Rheinstraße,in,right,close to stop line,2787,2025-05-26,2025-06-24,111868
+28,north,Maximilianstraße,in,straight,"middle lane, close to stop line",2787,2025-05-26,2025-06-24,25897
+30,north,Maximilianstraße,in,left,close to stop line,2787,2025-05-26,2025-06-24,99236
+39,north,Maximilianstraße,in,left,upstream ~20m,2787,2025-05-26,2025-06-24,112102
+40,north,Maximilianstraße,in,right,close to stop line,2787,2025-05-26,2025-06-24,67695

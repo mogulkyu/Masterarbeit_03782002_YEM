@@ -1,0 +1,5 @@
+scenario,best_k,n_days_used,main_cluster,main_cluster_size,final_representative_day
+weekday_evening,2,18,0,17,2026-03-23
+weekday_morning,2,18,0,17,2026-03-10
+weekend_evening,2,7,0,5,2026-03-22
+weekend_morning,2,7,0,5,2026-03-14

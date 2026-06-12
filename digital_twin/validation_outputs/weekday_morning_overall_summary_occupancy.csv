@@ -1,0 +1,2 @@
+﻿scenario,mean_real_occupancy,mean_sim_occupancy,mean_bias,MAE,RMSE,max_abs_error,corr,MAPE_percent,occ_GEH_like_mean,occ_GEH_like_max
+weekday_morning,37.26724137931034,15.591637931034484,-21.675603448275865,25.7175,31.214110577396422,71.38,0.3465201247982274,70.52291126902628,5.247093314154083,11.685947183059831

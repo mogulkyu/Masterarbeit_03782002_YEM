@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <vType id="car" vClass="passenger" accel="2.6" decel="4.5" sigma="0.5" length="5.0" maxSpeed="13.9"/>
+
+    <!-- West approach -->
+    <trip id="w_to_e" type="car" depart="10" from="-26202222#0" to="-202157700#5"/>
+    <trip id="w_to_n" type="car" depart="20" from="-26202222#0" to="893429999#1"/>
+    <trip id="w_to_s" type="car" depart="30" from="-26202222#0" to="12528053#0"/>
+
+    <!-- South approach -->
+    <trip id="s_to_e" type="car" depart="40" from="-202157703" to="-202157700#5"/>
+    <trip id="s_to_w" type="car" depart="50" from="-202157703" to="26202222#0"/>
+
+    <!-- East approach -->
+    <trip id="e_to_w" type="car" depart="60" from="202157700#3" to="26202222#0"/>
+    <trip id="e_to_n" type="car" depart="70" from="202157700#3" to="893429999#1"/>
+
+    <!-- North approach -->
+    <trip id="n_to_w" type="car" depart="80" from="-1182936853" to="26202222#0"/>
+    <trip id="n_to_s" type="car" depart="90" from="-1182936853" to="12528053#0"/>
+</routes>

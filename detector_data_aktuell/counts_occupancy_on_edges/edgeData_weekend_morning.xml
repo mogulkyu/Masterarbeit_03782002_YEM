@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<data>
+  <interval id="weekend_morning" begin="0.0" end="4500.0">
+    <edge id="-1182936853" entered="164"/>
+    <edge id="-1183449794" entered="70"/>
+    <edge id="-13831317#2.34" entered="92"/>
+    <edge id="-14811373#0" entered="4"/>
+    <edge id="-14811383#2" entered="277"/>
+    <edge id="-202157700#5" entered="433"/>
+    <edge id="-202157703" entered="383"/>
+    <edge id="-202234344" entered="640"/>
+    <edge id="-237921040" entered="913"/>
+    <edge id="-25563346#2" entered="36"/>
+    <edge id="-26202222#0.41" entered="253"/>
+    <edge id="-30329931#2" entered="581"/>
+    <edge id="202157700#3" entered="315"/>
+    <edge id="202234068#0" entered="485"/>
+    <edge id="237921036.41" entered="443"/>
+    <edge id="26202222#0" entered="234"/>
+    <edge id="75642281" entered="388"/>
+  </interval>
+</data>

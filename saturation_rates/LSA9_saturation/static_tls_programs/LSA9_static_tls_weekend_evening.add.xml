@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<additional>
+    <tlLogic id="LSA9" type="static" programID="derived_weekend_evening_simplified" offset="0">
+
+        <!-- North-East / North-West release -->
+        <phase duration="18" state="GGGGGrrrrrrrrrrrrrgggg"/>
+
+        <!-- Transition + clearance: 3 + 2 + 1 = 6 s -->
+        <phase duration="6" state="yyyyyrrrrrrrrrrrrryyyy"/>
+
+        <!-- East-only / pre-release -->
+        <phase duration="4" state="rrrrrGGGGrrrrrrrrrrrrr"/>
+
+        <!-- East + West release, west-left yield links fixed as g: 1 + 43 = 44 s -->
+        <phase duration="44" state="rrrrrGGGGrrrrGGGggrrrr"/>
+
+        <!-- Transition + clearance + short transition: 3 + 5 + 1 = 9 s -->
+        <phase duration="9" state="rrrrryyyyrrrryyyyyrrrr"/>
+
+        <!-- North-East / North-West release -->
+        <phase duration="14" state="GGGGGrrrrrrrrrrrrrgggg"/>
+
+        <!-- Transition + clearance + short transition: 3 + 6 + 1 = 10 s -->
+        <phase duration="10" state="yyyyyrrrrrrrrrrrrryyyy"/>
+
+        <!-- South release -->
+        <phase duration="9" state="rrrrrrrrrGGGGrrrrrrrrr"/>
+
+        <!-- South transition + clearance + short transition: 3 + 6 + 1 = 10 s -->
+        <phase duration="10" state="rrrrrrrrryyyyrrrrrrrrr"/>
+
+        <!-- East + West release, west-left yield links fixed as g -->
+        <phase duration="38" state="rrrrrGGGGrrrrGGGggrrrr"/>
+
+        <!-- Final transition -->
+        <phase duration="3" state="rrrrryyyyrrrryyyyyrrrr"/>
+
+    </tlLogic>
+</additional>

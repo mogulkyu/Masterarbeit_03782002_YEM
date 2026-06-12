@@ -1,0 +1,4 @@
+scenario,cluster,representative_day,distance_to_centroid,n_days_in_cluster,total_window_count_rep_day
+weekday_evening,0,2025-06-19,0.005568458457248589,14,4749.0
+weekday_evening,1,2025-05-30,0.0038796809590269836,5,9303.0
+weekday_evening,2,2025-05-29,0.0,1,5596.0

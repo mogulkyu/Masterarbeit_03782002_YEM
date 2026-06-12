@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<additional>
+    <tlLogic id="LSA1" type="static" programID="derived_weekday_morning" offset="0">
+        <phase duration="33" state="rrrGGGrrrGGr"/>
+        <phase duration="3" state="rrryyyrrryyr"/>
+        <phase duration="1" state="rrrGyyrrryyr"/>
+        <phase duration="1" state="rrrrrrrrrrrr"/>
+        <phase duration="22" state="GGGGrrrrrrrr"/>
+        <phase duration="2" state="GyyGrrrrrrrr"/>
+        <phase duration="1" state="yyyGrrrrrrrr"/>
+        <phase duration="1" state="GGGyrrrrrrrr"/>
+        <phase duration="1" state="rrrrrrrrrrrr"/>
+        <phase duration="9" state="GrrrrrGrrrrG"/>
+        <phase duration="3" state="rrrrrrGrrrrG"/>
+        <phase duration="3" state="Grrrrryrrrry"/>
+        <phase duration="1" state="rrrrrryrrrry"/>
+        <phase duration="1" state="rrrrrrrrrrrr"/>
+    </tlLogic>
+</additional>

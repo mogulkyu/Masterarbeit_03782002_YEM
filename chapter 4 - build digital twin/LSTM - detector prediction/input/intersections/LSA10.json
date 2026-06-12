@@ -1,0 +1,835 @@
+{
+  "tlc": {
+    "deviceId": "719612af-2487-4771-941f-534a4f568272",
+    "tenantId": "cff84c1d-ba49-464e-b237-e4f922e03e49",
+    "writeOcitCPD": false,
+    "city": "Landau",
+    "location": "B38 / Marienring / S\u00fcdring / Schlo\u00dfstr.",
+    "name": "LD-LSA10",
+    "alias": "LD-LSA10",
+    "longitude": 8.11432,
+    "latitude": 49.193208,
+    "active": true,
+    "ip": "10.45.49.6",
+    "fqdn": "fg10.z1.landau.topic.swarco.loc",
+    "checkPeriod": 5,
+    "errorTimeout": 1800,
+    "detectorAggrPeriod": 15,
+    "readParameters": false,
+    "readDetectors": true,
+    "readSignalStates": true,
+    "readPublicTransport": false,
+    "lastStatusUpdate": "2025-06-04T09:30:00",
+    "lastContacted": "2025-06-04T09:44:36.75",
+    "intersectionPlan": "",
+    "signalGroupCount": 20,
+    "signalHeadCount": 38,
+    "activeDetectorCount": 41,
+    "outputCount": 18,
+    "modificationCount": 0,
+    "interventionCount": 1,
+    "brokenDetectorCount": 0,
+    "brokenLampCount": 0,
+    "state": "NO_FAILURE",
+    "deviceInfo": {
+      "manufacturer": "SWARCO",
+      "softwareVersion": "2009876, 10 - Marienring/ Suedring/ Sch.V5.18.10",
+      "hardwareVersion": "2.0",
+      "description": "Landau, B38 / Marienring / S\u00fcdring / Schlo\u00dfstr.",
+      "deviceType": "ACTROS (Actros_NSG_ProjectRevision_1.160)"
+    },
+    "hardwareStatus": {
+      "occured": "2025-04-16T04:27:16",
+      "received": "2025-04-16T04:27:16",
+      "faultDetectors": [],
+      "faultSignalHeadSection": [],
+      "persistenceOk": true,
+      "timeSource": "CONTROL_CENTER",
+      "emergencyOff": false,
+      "doorOpen": false,
+      "powerOk": true
+    },
+    "softwareStatus": [
+      {
+        "occured": "2025-06-04T09:30:00",
+        "received": "2025-06-04T09:30:04",
+        "signalProgram": {
+          "id": "4",
+          "name": "P4"
+        },
+        "intervention": {
+          "id": "0",
+          "name": "Intervention-0"
+        },
+        "modification": [
+          {
+            "modification": {
+              "type": "TRAFFIC_DEPENDENT",
+              "id": "1",
+              "name": "TRAFFIC_DEPENDENT"
+            },
+            "state": "ENABLED",
+            "projectNumber": -1
+          },
+          {
+            "modification": {
+              "type": "PUBLIC_TRANSPORT",
+              "id": "2",
+              "name": "PUBLIC_TRANSPORT"
+            },
+            "state": "ENABLED",
+            "projectNumber": -1
+          },
+          {
+            "modification": {
+              "type": "INDIVIDUAL_TRAFFIC_DEPENDENT",
+              "id": "3",
+              "name": "INDIVIDUAL_TRAFFIC_DEPENDENT"
+            },
+            "state": "ENABLED",
+            "projectNumber": -1
+          }
+        ],
+        "node": {
+          "signalGroups": [
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "K1a"
+                },
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K1"
+                }
+              ],
+              "id": "1",
+              "name": "K1"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K2"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "K2a"
+                }
+              ],
+              "id": "2",
+              "name": "K2"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K3"
+                }
+              ],
+              "id": "3",
+              "name": "K3"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K4"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "K4a"
+                }
+              ],
+              "id": "4",
+              "name": "K4"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F1"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F1a"
+                }
+              ],
+              "id": "5",
+              "name": "F1"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F2"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F2a"
+                }
+              ],
+              "id": "6",
+              "name": "F2"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F3"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F3a"
+                }
+              ],
+              "id": "7",
+              "name": "F3"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F4"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F4a"
+                }
+              ],
+              "id": "8",
+              "name": "F4"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F5"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F5a"
+                }
+              ],
+              "id": "9",
+              "name": "F5"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F6"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F6a"
+                }
+              ],
+              "id": "10",
+              "name": "F6"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "FB1"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "FB1a"
+                }
+              ],
+              "id": "11",
+              "name": "FB1"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "FB2"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "FB2a"
+                }
+              ],
+              "id": "12",
+              "name": "FB2"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "FB3"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "FB3a"
+                }
+              ],
+              "id": "13",
+              "name": "FB3"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "FB4_FB5"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "FBFB4_5b"
+                },
+                {
+                  "headSection": [],
+                  "id": "3",
+                  "name": "FB4_FB5c"
+                },
+                {
+                  "headSection": [],
+                  "id": "4",
+                  "name": "FBFB4_5d"
+                }
+              ],
+              "id": "14",
+              "name": "FB4_FB5"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "FB6"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "FB6a"
+                }
+              ],
+              "id": "15",
+              "name": "FB6"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "Bl1"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "Bl1a"
+                }
+              ],
+              "id": "16",
+              "name": "Bl1"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "Bl2"
+                }
+              ],
+              "id": "17",
+              "name": "Bl2"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "Bl3"
+                }
+              ],
+              "id": "18",
+              "name": "Bl3"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K5"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "K5a"
+                }
+              ],
+              "id": "19",
+              "name": "K5"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "Bl4"
+                }
+              ],
+              "id": "20",
+              "name": "Bl4"
+            }
+          ],
+          "detectors": [
+            {
+              "detectorType": "NONE",
+              "id": "1",
+              "name": "VD11"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "2",
+              "name": "VD25"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "3",
+              "name": "VD41"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "4",
+              "name": "VD42"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "5",
+              "name": "D25"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "6",
+              "name": "T1s"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "7",
+              "name": "T2s"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "8",
+              "name": "T3s"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "9",
+              "name": "T4s"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "10",
+              "name": "T7s"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "11",
+              "name": "T8s"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "12",
+              "name": "T9s"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "13",
+              "name": "T1b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "14",
+              "name": "T2b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "15",
+              "name": "T3b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "16",
+              "name": "T4b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "17",
+              "name": "T5b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "18",
+              "name": "T6b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "19",
+              "name": "T7b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "20",
+              "name": "T8b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "21",
+              "name": "T9b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "22",
+              "name": "T10b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "23",
+              "name": "T11b"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "24",
+              "name": "WD21"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "25",
+              "name": "WD22"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "26",
+              "name": "WD23"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "27",
+              "name": "WD24"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "28",
+              "name": "WD31"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "29",
+              "name": "WD32"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "30",
+              "name": "WD51"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "31",
+              "name": "WD52"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "32",
+              "name": "PA"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "33",
+              "name": "PB"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "34",
+              "name": "PC"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "35",
+              "name": "GB"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "36",
+              "name": "FR"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "37",
+              "name": "SY1"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "38",
+              "name": "WBK1_Err"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "39",
+              "name": "WBK2_Err"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "40",
+              "name": "WBK3_Err"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "41",
+              "name": "VKx_iO"
+            }
+          ],
+          "outputs": [
+            {
+              "id": "1",
+              "name": "T1_T2_SK"
+            },
+            {
+              "id": "3",
+              "name": "T3_SK"
+            },
+            {
+              "id": "4",
+              "name": "T4_SK"
+            },
+            {
+              "id": "5",
+              "name": "T7_SK"
+            },
+            {
+              "id": "6",
+              "name": "T8_SK"
+            },
+            {
+              "id": "7",
+              "name": "T9_SK"
+            },
+            {
+              "id": "8",
+              "name": "RPA"
+            },
+            {
+              "id": "9",
+              "name": "RPB"
+            },
+            {
+              "id": "10",
+              "name": "RPC"
+            },
+            {
+              "id": "11",
+              "name": "RPD"
+            },
+            {
+              "id": "12",
+              "name": "RM_Stoer"
+            },
+            {
+              "id": "13",
+              "name": "RM_GW"
+            },
+            {
+              "id": "14",
+              "name": "RM_Ein"
+            },
+            {
+              "id": "15",
+              "name": "RM_Rot_Stoer"
+            },
+            {
+              "id": "16",
+              "name": "K_Schritt"
+            },
+            {
+              "id": "17",
+              "name": "Reset"
+            },
+            {
+              "id": "18",
+              "name": "Mute"
+            },
+            {
+              "id": "19",
+              "name": "PT"
+            }
+          ],
+          "signalPrograms": [
+            {
+              "id": "1",
+              "name": "P1"
+            },
+            {
+              "id": "2",
+              "name": "P2"
+            },
+            {
+              "id": "3",
+              "name": "P3"
+            },
+            {
+              "id": "4",
+              "name": "P4"
+            },
+            {
+              "id": "6",
+              "name": "P6"
+            },
+            {
+              "id": "7",
+              "name": "P7"
+            },
+            {
+              "id": "9",
+              "name": "P9"
+            },
+            {
+              "id": "10",
+              "name": "P10"
+            },
+            {
+              "id": "11",
+              "name": "P11"
+            },
+            {
+              "id": "12",
+              "name": "P12"
+            },
+            {
+              "id": "13",
+              "name": "P13"
+            },
+            {
+              "id": "14",
+              "name": "P14"
+            },
+            {
+              "id": "16",
+              "name": "P16"
+            },
+            {
+              "id": "17",
+              "name": "P17"
+            },
+            {
+              "id": "19",
+              "name": "P19"
+            },
+            {
+              "id": "20",
+              "name": "P20"
+            },
+            {
+              "id": "22",
+              "name": "P22"
+            }
+          ],
+          "modifications": [],
+          "interventions": [
+            {
+              "id": "0",
+              "name": "Intervention-0"
+            }
+          ],
+          "subNodes": [],
+          "id": "0",
+          "name": "Knoten-0"
+        },
+        "operationMode": "LOCAL_TIMED",
+        "failure": "NO_FAILURE",
+        "nodeState": "ENABLED",
+        "subNodeStates": [
+          {
+            "subNode": {
+              "id": "0",
+              "name": "TK-0"
+            },
+            "state": "ENABLED"
+          }
+        ]
+      }
+    ],
+    "addInfo": [
+      {
+        "visible": true,
+        "key": "iOevCleanup",
+        "value": "35"
+      },
+      {
+        "visible": true,
+        "key": "psb",
+        "value": "0"
+      },
+      {
+        "visible": true,
+        "key": "idMessageCleanup",
+        "value": "2000"
+      },
+      {
+        "visible": true,
+        "key": "idStateCleanup",
+        "value": "2000"
+      },
+      {
+        "visible": true,
+        "key": "AutoOk",
+        "value": "0"
+      },
+      {
+        "visible": true,
+        "key": "aSigEnd",
+        "value": "01/01/99 12:00 00 PM"
+      },
+      {
+        "visible": true,
+        "key": "aSigStart",
+        "value": "01/01/00 12:00 00 AM"
+      },
+      {
+        "visible": true,
+        "key": "iSigCleanup",
+        "value": "365"
+      },
+      {
+        "visible": true,
+        "key": "notiz",
+        "value": "EQ 2009876"
+      }
+    ],
+    "child": false
+  },
+  "deviceGroupIds": [
+    "d2e29342-bbe9-4784-83b6-278c998c62b8"
+  ],
+  "authGuid": "fcd716f9-5ce1-43bd-b669-33b854e094bf"
+}

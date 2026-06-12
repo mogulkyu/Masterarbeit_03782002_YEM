@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<additional>
+    <tlLogic id="9876" type="static" programID="derived_weekend_evening_simplified" offset="0">
+
+        <!-- East + West release -->
+        <phase duration="44" state="GGGGrrrrGGGrrrrrr"/>
+
+        <!-- East + West transition: 2 + 2 + 1 + 1 = 6 s -->
+        <phase duration="6" state="yyyyrrrryyyrrrrrr"/>
+
+        <!-- Clearance -->
+        <phase duration="2" state="rrrrrrrrrrrrrrrrr"/>
+
+        <!-- North-West + North-East release -->
+        <phase duration="13" state="rrrrrrrrrrrGGGGGG"/>
+
+        <!-- North transition: 3 + 3 + 1 = 7 s -->
+        <phase duration="7" state="rrrrrrrrrrryyyyyy"/>
+
+        <!-- Clearance -->
+        <phase duration="2" state="rrrrrrrrrrrrrrrrr"/>
+
+        <!-- South release -->
+        <phase duration="9" state="rrrrGGGGrrrrrrrrr"/>
+
+        <!-- South transition: 3 + 1 = 4 s -->
+        <phase duration="4" state="rrrryyyyrrrrrrrrr"/>
+
+        <!-- Clearance -->
+        <phase duration="2" state="rrrrrrrrrrrrrrrrr"/>
+
+    </tlLogic>
+</additional>

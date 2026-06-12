@@ -1,0 +1,2 @@
+﻿scenario,mean_real_occupancy,mean_sim_occupancy,mean_bias,MAE,RMSE,max_abs_error,corr
+weekday_evening,40.695945945945944,25.737905405405403,-14.95804054054054,22.234256756756757,27.8835833833691,78.61,0.4625799871175378

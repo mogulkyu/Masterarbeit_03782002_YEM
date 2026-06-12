@@ -1,0 +1,5 @@
+﻿scenario,date,start_time_full,end_time_full,warmup_minutes,analysis_start_time,analysis_from_clock,analysis_to_clock,n_rows_full,n_rows_analysis_only,n_detectors_full,n_detectors_analysis_only,total_count_full,total_count_analysis_only,mean_occupancy_full,mean_occupancy_analysis_only
+weekday_morning,2026-03-10,07:45:00,09:00:00,15,07:45:00,08:00:00,09:00:00,245,196,49,49,11632,9295,34.31428571428572,34.44387755102041
+weekday_evening,2026-03-23,15:45:00,17:00:00,15,15:45:00,16:00:00,17:00:00,245,196,49,49,13629,10763,42.63673469387755,42.38775510204081
+weekend_morning,2026-03-14,07:45:00,09:00:00,15,07:45:00,08:00:00,09:00:00,245,196,49,49,8481,7017,23.077551020408162,23.693877551020407
+weekend_evening,2026-03-22,15:45:00,17:00:00,15,15:45:00,16:00:00,17:00:00,245,196,49,49,9855,8046,25.97142857142857,26.479591836734695

@@ -1,0 +1,5 @@
+<nodes>
+    <node id="start" x="0" y="0"/>
+    <node id="ampel" x="500" y="0" type="traffic_light"/>
+    <node id="ende" x="1000" y="0"/>
+</nodes>

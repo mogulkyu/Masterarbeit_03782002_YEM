@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<data>
+  <interval id="holiday_evening" begin="0.0" end="3600.0">
+    <edge id="-1182936853" entered="159"/>
+    <edge id="-1183449794" entered="26"/>
+    <edge id="-13831317#2" entered="99"/>
+    <edge id="-202157700#5" entered="387"/>
+    <edge id="-202157703" entered="307"/>
+    <edge id="-202234344" entered="515"/>
+    <edge id="-237921040" entered="752"/>
+    <edge id="-25563346#2" entered="13"/>
+    <edge id="202157700#3" entered="321"/>
+    <edge id="237921036.41" entered="275"/>
+    <edge id="26202222#0" entered="244"/>
+    <edge id="75642281" entered="413"/>
+  </interval>
+</data>

@@ -1,0 +1,16 @@
+﻿scenario,phase,pattern_K1_K2_K3_K4_K5,K1,K2,K3,K4,K5,duration_s,sumo_state,phase_type,description
+weekend_evening,1,4-2-2-4-2,4,2,2,4,2,44,GGGGrrrrGGGrrrrrr,Release,West-East release
+weekend_evening,2,3-2-2-4-2,3,2,2,4,2,2,GGGGrrrryyyrrrrrr,Transition,Transition
+weekend_evening,3,2-2-2-3-2,2,2,2,3,2,2,yyyyrrrrrrrrrrrrr,Transition,Transition
+weekend_evening,4,5-2-2-4-2,5,2,2,4,2,1,GGGGrrrryyyrrrrrr,Transition,Transition
+weekend_evening,5,2-2-2-5-2,2,2,2,5,2,1,yyyyrrrrrrrrrrrrr,Transition,Transition
+weekend_evening,6,2-2-2-2-2,2,2,2,2,2,2,rrrrrrrrrrrrrrrrr,Clearance,All-red / clearance
+weekend_evening,7,2-4-4-2-2,2,4,4,2,2,13,rrrrrrrrrrrGGGGGG,Release,North-West / North-East release
+weekend_evening,8,2-3-4-2-2,2,3,4,2,2,3,rrrrrrrrrrryyyyyG,Transition,Transition
+weekend_evening,9,2-2-3-2-2,2,2,3,2,2,3,rrrrrrrrrrrrrrrry,Transition,Transition
+weekend_evening,10,2-5-5-2-2,2,5,5,2,2,1,rrrrrrrrrrryyyyyy,Transition,Transition
+weekend_evening,11,2-2-2-2-2,2,2,2,2,2,2,rrrrrrrrrrrrrrrrr,Clearance,All-red / clearance
+weekend_evening,12,2-2-2-2-4,2,2,2,2,4,9,rrrrGGGGrrrrrrrrr,Release,South release
+weekend_evening,13,2-2-2-2-3,2,2,2,2,3,3,rrrryyyyrrrrrrrrr,Transition,Transition
+weekend_evening,14,2-2-2-2-5,2,2,2,2,5,1,rrrryyyyrrrrrrrrr,Transition,Transition
+weekend_evening,15,2-2-2-2-2,2,2,2,2,2,2,rrrrrrrrrrrrrrrrr,Clearance,All-red / clearance

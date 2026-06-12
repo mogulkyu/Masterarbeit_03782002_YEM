@@ -1,0 +1,10 @@
+﻿detector_id,approach,street,direction_role,movement,position_note,n_rows,first_day,last_day,total_count
+1,west,Schloßstraße,in,straight+right,upstream 30m,2823,2025-05-26,2025-06-24,122999
+2,north-west,Südring,in,all/unspecified,"upstream 25m, before expansion",2823,2025-05-26,2025-06-24,60145
+3,east,Marienring,in,straight+right,approach lane,2823,2025-05-26,2025-06-24,112540
+4,east,Marienring,in,straight,approach lane,2823,2025-05-26,2025-06-24,84158
+5,west,Schloßstraße,in,from LSA16 towards LSA10,"same as LSA16-id13, upstream ~40m of LSA10 / downstream ~50m of LSA16",2823,2025-05-26,2025-06-24,194860
+26,north-west,Südring,in,straight+right,close to stop line,2823,2025-05-26,2025-06-24,14067
+27,north-west,Südring,in,right,close to stop line,2823,2025-05-26,2025-06-24,34329
+29,north-east,Karl-Sauer-Str.,in,right,close to stop line,2823,2025-05-26,2025-06-24,10631
+31,south,south arm,in,multidirection,close to stop line,2823,2025-05-26,2025-06-24,25170

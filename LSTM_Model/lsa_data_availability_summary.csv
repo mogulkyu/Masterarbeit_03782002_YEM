@@ -1,0 +1,6 @@
+﻿lsa,total_days,full_days,partial_days,empty_days,usable_days,usable_partial_days,fully_usable_days,usable_share_percent,lstm_suitability
+LD-LSA10,47,13,34,0,47,34,13,100.0,Suitable for first LSTM model
+LD-LSA9,47,13,34,0,47,34,13,100.0,Suitable for first LSTM model
+LD-LSA16,47,14,29,4,43,29,14,91.5,Suitable for first LSTM model
+LD-LSA1,47,13,31,3,40,27,13,85.1,Suitable for first LSTM model
+LD-LSA8,47,1,9,37,7,6,1,14.9,Not suitable

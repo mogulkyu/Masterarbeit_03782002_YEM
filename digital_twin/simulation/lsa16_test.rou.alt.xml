@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-04-13T15:09:45.331048+01:00 by Eclipse SUMO duarouter 1.25.0
+<duarouterConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\landau_corridor.net.xml"/>
+        <route-files value="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\lsa16_test.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\lsa16_test.rou.xml"/>
+    </output>
+
+    <processing>
+        <repair value="true"/>
+    </processing>
+
+    <report>
+        <ignore-errors value="false"/>
+    </report>
+
+</duarouterConfiguration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="car" length="5.00" maxSpeed="13.90" vClass="passenger" accel="2.6" decel="4.5" sigma="0.5"/>
+    <vehicle id="w_to_e" type="car" depart="10.00">
+        <routeDistribution last="0">
+            <route cost="12.68" probability="1.00000000" edges="-26202222#0 -26202222#0.41 -202157700#5"/>
+        </routeDistribution>
+    </vehicle>
+    <vehicle id="w_to_n" type="car" depart="20.00">
+        <routeDistribution last="0">
+            <route cost="15.06" probability="1.00000000" edges="-26202222#0 -26202222#0.41 893429999#1"/>
+        </routeDistribution>
+    </vehicle>
+    <vehicle id="w_to_s" type="car" depart="30.00">
+        <routeDistribution last="0">
+            <route cost="9.82" probability="1.00000000" edges="-26202222#0 -26202222#0.41 12528053#0"/>
+        </routeDistribution>
+    </vehicle>
+    <vehicle id="s_to_e" type="car" depart="40.00">
+        <routeDistribution last="0">
+            <route cost="9.99" probability="1.00000000" edges="-202157703 -202157700#5"/>
+        </routeDistribution>
+    </vehicle>
+    <vehicle id="e_to_w" type="car" depart="60.00">
+        <routeDistribution last="0">
+            <route cost="12.52" probability="1.00000000" edges="202157700#3 26202222#0"/>
+        </routeDistribution>
+    </vehicle>
+    <vehicle id="e_to_n" type="car" depart="70.00">
+        <routeDistribution last="0">
+            <route cost="13.24" probability="1.00000000" edges="202157700#3 893429999#1"/>
+        </routeDistribution>
+    </vehicle>
+    <vehicle id="n_to_w" type="car" depart="80.00">
+        <routeDistribution last="0">
+            <route cost="13.26" probability="1.00000000" edges="-1182936853 26202222#0"/>
+        </routeDistribution>
+    </vehicle>
+    <vehicle id="n_to_s" type="car" depart="90.00">
+        <routeDistribution last="0">
+            <route cost="11.65" probability="1.00000000" edges="-1182936853 12528053#0"/>
+        </routeDistribution>
+    </vehicle>
+</routes>

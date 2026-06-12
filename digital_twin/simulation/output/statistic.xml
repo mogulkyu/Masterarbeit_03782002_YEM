@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-05-22 08:28:45 by Eclipse SUMO GUI Version 1.23.1
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\KrumnowMario\Desktop\sim\V7_landau_small_opt.net.xml"/>
+        <additional-files value="C:\Users\KrumnowMario\Desktop\sim\vehicles.xml,C:\Users\KrumnowMario\Desktop\sim\flows_morningPeak.xml,C:\Users\KrumnowMario\Desktop\sim\tls_9873.xml,C:\Users\KrumnowMario\Desktop\sim\tls_9874.xml,C:\Users\KrumnowMario\Desktop\sim\tls_9875.xml,C:\Users\KrumnowMario\Desktop\sim\tls_9876.xml,C:\Users\KrumnowMario\Desktop\sim\tls_15293.xml"/>
+    </input>
+
+    <output>
+        <edgedata-output value="C:\Users\KrumnowMario\Desktop\sim\output/edge_data.xml"/>
+        <lanedata-output value="C:\Users\KrumnowMario\Desktop\sim\output/lane_data.xml"/>
+        <statistic-output value="C:\Users\KrumnowMario\Desktop\sim\output/statistic.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="30"/>
+    </processing>
+
+    <report>
+        <verbose value="false"/>
+        <no-warnings value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <gui_only>
+        <gui-settings-file value="C:\Users\KrumnowMario\Desktop\sim\gui_settings_Landau.xml"/>
+    </gui_only>
+
+</sumoConfiguration>
+-->
+
+<statistics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/statistic_file.xsd">
+</statistics>

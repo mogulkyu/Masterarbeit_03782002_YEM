@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<additional>
+    <tlLogic id="tls_9873" type="static" programID="derived_weekday_morning" offset="0">
+        <phase duration="1" state="rrrrrrrrrrrrryyyyyrrrr"/>
+        <phase duration="3" state="rrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="1" state="yyyyyrrrrrrrrrrrrryyyy"/>
+        <phase duration="7" state="GGGGGrrrrrrrrrrrrrGGGG"/>
+        <phase duration="3" state="yyyyyrrrrrrrrrrrrryyyy"/>
+        <phase duration="6" state="rrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="1" state="rrrrrrrrryyyyrrrrrrrrr"/>
+        <phase duration="11" state="rrrrrrrrrGGGGrrrrrrrrr"/>
+        <phase duration="3" state="rrrrrrrrryyyyrrrrrrrrr"/>
+        <phase duration="6" state="rrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="1" state="rrrrryyyyrrrryyyyyrrrr"/>
+        <phase duration="25" state="rrrrrGGGGrrrrGGGGGrrrr"/>
+        <phase duration="3" state="rrrrryyyyrrrrGGGGGrrrr"/>
+        <phase duration="17" state="rrrrrrrrrrrrrGGGGGrrrr"/>
+        <phase duration="3" state="rrrrrrrrrrrrryyyyyrrrr"/>
+        <phase duration="3" state="rrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="1" state="yyyyyrrrrrrrrrrrrryyyy"/>
+        <phase duration="7" state="GGGGGrrrrrrrrrrrrrGGGG"/>
+        <phase duration="3" state="yyyyyrrrrrrrrrrrrryyyy"/>
+        <phase duration="6" state="rrrrrrrrrrrrrrrrrrrrrr"/>
+    </tlLogic>
+</additional>

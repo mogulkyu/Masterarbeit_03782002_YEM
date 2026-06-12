@@ -1,0 +1,1 @@
+use jabref or some other tool for literature references

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-05-08T12:25:54.421790+01:00 by Eclipse SUMO netedit 1.25.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <laneAreaDetector id="LSA10_E_id3" lane="75642281_0" pos="50.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA10_E_id4" lane="75642281_1" pos="50.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA10_NE_id29" lane="-25563346#2_0" pos="50.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA10_NW_id26" lane="-13831317#2.34_0" pos="6.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA10_NW_id27" lane="-13831317#2.34_1" pos="6.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA10_S_id31" lane="-1183449794_0" pos="40.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA10_W_id1" lane="-202157700#2_0" pos="20.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA16_E_id10" lane="202157700#3_0" pos="50.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA16_E_id11" lane="202157700#3_1" pos="50.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA16_N_id6" lane="-1182936853_0" pos="50.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA16_N_id7" lane="-1182936853_1" pos="50.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA16_S_id1" lane="-202157703_0" pos="20.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA16_S_id2" lane="-202157703_1" pos="20.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA16_S_id33" lane="-202157703_2" pos="38.41" length="0.10" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA16_W_id3" lane="-26202222#0.41_1" pos="3.85" length="10.43" period="300.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA16_W_id4" lane="-26202222#0.41_2" pos="3.86" length="10.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA1_E_id13" lane="-59617619_1" pos="1.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA1_E_id23" lane="-59617619_2" pos="1.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA1_E_id26" lane="-59617619_3" pos="0.02" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA1_E_id27" lane="-59617619_0" pos="1.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA1_N_id28_id40" lane="237921036_0" pos="25.00" length="50.55" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA1_N_id30" lane="237921036_1" pos="25.00" length="50.16" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA1_W_id7" lane="-202234344_1" pos="2.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA1_W_id9" lane="-202234344_0" pos="2.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA9_E_id8" lane="202234068#0_0" pos="60.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA9_E_id9" lane="202234068#0_1" pos="60.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA9_NE_id4" lane="-14811383#2_0" pos="7.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA9_NE_id5" lane="-14811383#2_1" pos="7.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA9_NW_id3" lane="-308681382#1_0" pos="50.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA9_S_id10" lane="-14811373#0_0" pos="43.00" length="50.00" friendlyPos="1" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA9_W_id1" lane="-30329931#1_0" pos="2.52" length="10.00" period="300.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+    <laneAreaDetector id="LSA9_W_id2" lane="-30329931#1_1" pos="2.13" length="10.00" period="300.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e2_output.xml"/>
+</additional>

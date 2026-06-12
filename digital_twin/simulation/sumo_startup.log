@@ -1,0 +1,6 @@
+Loading net-file from 'simulation/landau_corridor.net.xml' ... done (54ms).
+Error: exceeded byte limit at byte '�' in a 6-byte sequence
+ In file 'C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\weekday_morning_sampled_merged.rou1.xml'
+ At line/column 2/39.
+
+Quitting (on error).

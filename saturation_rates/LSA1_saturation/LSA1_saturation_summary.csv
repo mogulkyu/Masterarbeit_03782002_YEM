@@ -1,0 +1,1 @@
+﻿scenario,date,window_start,window_end,movement,signal_group,signal_id,observed_seconds,green_seconds,cycle_count,green_minutes,green_share_percent,avg_cycle_time_s,avg_green_per_cycle_s,detector_ids,demand_veh_per_hour,n_detector_measurements,capacity_veh_per_hour,saturation,saturation_level

@@ -1,0 +1,5 @@
+﻿lsa,approach,street_name,detector_ids,direction_type
+LD-LSA1,west,Rheinstraße,"7, 9",inflow
+LD-LSA1,east,Rheinstraße,"14, 24, 26",inflow
+LD-LSA1,north,Maximilianstraße,"40, 28, 30",inflow
+LD-LSA1,south,Paul-von-Denis-Straße,11,excluded_faulty

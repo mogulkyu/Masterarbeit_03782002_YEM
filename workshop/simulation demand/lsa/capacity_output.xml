@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-04-27T10:53:22.523776+01:00 by Eclipse SUMO sumo 1.26.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="capacity.net.xml"/>
+        <route-files value="capacity.rou.xml"/>
+        <additional-files value="capacity.add.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="capacity_summary.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+    </report>
+
+</sumoConfiguration>
+-->
+
+<meandata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/meandata_file.xsd">
+    <interval begin="0.00" end="3600.00" id="messung">
+        <edge id="segment1" sampledSeconds="161692.51" traveltime="180.54" overlapTraveltime="181.12" density="89.56" overlapDensity="89.83" laneDensity="89.56" occupancy="44.85" waitingTime="57659.00" timeLoss="127922.61" speed="2.79" speedRelative="0.20" departed="927" arrived="0" entered="0" left="876" laneChangedFrom="0" laneChangedTo="0" flow="892.93"/>
+        <edge id="segment2" sampledSeconds="38334.98" traveltime="43.56" overlapTraveltime="43.97" density="21.15" overlapDensity="21.30" laneDensity="21.15" occupancy="10.55" waitingTime="0.00" timeLoss="5360.19" speed="11.49" speedRelative="0.83" departed="0" arrived="867" entered="876" left="0" laneChangedFrom="0" laneChangedTo="0" flow="873.77"/>
+    </interval>
+</meandata>

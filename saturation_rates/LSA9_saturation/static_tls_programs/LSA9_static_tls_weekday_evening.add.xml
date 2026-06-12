@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<additional>
+    <tlLogic id="LSA9" type="static" programID="derived_weekday_evening_simplified" offset="0">
+
+        <!-- North-East / North-West release -->
+        <phase duration="11" state="GGGGGrrrrrrrrrrrrrgggg"/>
+
+        <!-- Transition + clearance: 3 + 6 + 1 = 10 s -->
+        <phase duration="10" state="yyyyyrrrrrrrrrrrrryyyy"/>
+
+        <!-- South release -->
+        <phase duration="11" state="rrrrrrrrrGGGGrrrrrrrrr"/>
+
+        <!-- South transition + clearance: 3 + 6 + 1 = 10 s -->
+        <phase duration="10" state="rrrrrrrrryyyyrrrrrrrrr"/>
+
+        <!-- East + West release, west-left yield links fixed as g -->
+        <phase duration="40" state="rrrrrGGGGrrrrGGGggrrrr"/>
+
+        <!-- Transition + clearance + short transition: 3 + 5 + 1 = 9 s -->
+        <phase duration="9" state="rrrrryyyyrrrryyyyyrrrr"/>
+
+        <!-- North-East / North-West release -->
+        <phase duration="12" state="GGGGGrrrrrrrrrrrrrgggg"/>
+
+        <!-- Transition + clearance + short transition: 3 + 6 + 1 = 10 s -->
+        <phase duration="10" state="yyyyyrrrrrrrrrrrrryyyy"/>
+
+        <!-- South release -->
+        <phase duration="14" state="rrrrrrrrrGGGGrrrrrrrrr"/>
+
+        <!-- South transition + clearance + short transition: 3 + 6 + 1 = 10 s -->
+        <phase duration="10" state="rrrrrrrrryyyyrrrrrrrrr"/>
+
+    </tlLogic>
+</additional>

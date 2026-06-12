@@ -1,0 +1,3 @@
+scenario,cluster,representative_day,distance_to_centroid,n_days_in_cluster,total_window_count_rep_day
+weekday_morning,0,2026-03-10,0.0034318281961025323,17,9295.0
+weekday_morning,1,2026-03-19,0.0,1,6131.0

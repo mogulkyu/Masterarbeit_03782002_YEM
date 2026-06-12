@@ -1,0 +1,3 @@
+<additional>
+        <edgeData id="messung_stunde" file="capacity_output.xml" freq="3600"/>
+    </additional>

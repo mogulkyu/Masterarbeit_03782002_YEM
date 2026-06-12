@@ -1,0 +1,14 @@
+<configuration>
+        <input>
+            <net-file value="capacity_tls.net.xml"/>
+            <route-files value="capacity_tls.rou.xml"/>
+            <additional-files value="capacity_tls.add.xml"/>
+        </input>
+        <output>
+            <summary-output value="capacity_tls_summary.xml"/>
+        </output>
+        <time>
+            <begin value="0"/>
+            <end value="3600"/>
+        </time>
+    </configuration>

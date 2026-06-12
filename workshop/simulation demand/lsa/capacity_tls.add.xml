@@ -1,0 +1,5 @@
+<additional>
+        <tlLogic id="ampel" type="static" programID="1" offset="0">
+            <phase duration="30" state="G"/> <phase duration="30" state="r"/> </tlLogic>
+        <edgeData id="messung" file="capacity_tls_output.xml" freq="3600"/>
+    </additional>

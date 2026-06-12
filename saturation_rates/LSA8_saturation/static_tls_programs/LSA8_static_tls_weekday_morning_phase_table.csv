@@ -1,0 +1,17 @@
+﻿scenario,phase,pattern_K1_K2_K3_K4_K5_K6,K1,K2,K3,K4,K5,K6,duration_s,sumo_state,phase_type,description
+weekday_morning,1,4-2-4-2-2-2,4,2,4,2,2,2,32,GrrrGrrr,Release,K1 + K3 release
+weekday_morning,2,4-2-3-2-2-2,4,2,3,2,2,2,3,yrrrGrrr,Transition,Transition
+weekday_morning,3,2-2-2-2-2-2,2,2,2,2,2,2,3,rrrrrrrr,Clearance,All-red / clearance
+weekday_morning,4,2-4-2-2-4-2,2,4,2,2,4,2,23,rrGGrrGG,Release,K2 + K5 release
+weekday_morning,5,2-3-2-2-3-2,2,3,2,2,3,2,3,rryyrryy,Transition,Transition
+weekday_morning,6,2-5-2-2-5-2,2,5,2,2,5,2,1,rryyrryy,Transition,Transition
+weekday_morning,7,2-2-2-2-2-2,2,2,2,2,2,2,3,rrrrrrrr,Clearance,All-red / clearance
+weekday_morning,8,2-2-4-4-2-2,2,2,4,4,2,2,9,GGrrrrrr,Release,K3 + K4 release
+weekday_morning,9,2-2-4-3-2-2,2,2,4,3,2,2,3,Gyrrrrrr,Transition,Transition
+weekday_morning,10,2-2-5-5-2-2,2,2,5,5,2,2,1,yyrrrrrr,Transition,Transition
+weekday_morning,11,2-2-2-2-2-2,2,2,2,2,2,2,3,rrrrrrrr,Clearance,All-red / clearance
+weekday_morning,12,4-2-2-2-2-4,4,2,2,2,2,4,9,rrrrGGrr,Release,K1 + K6 release
+weekday_morning,13,3-2-2-2-2-4,3,2,2,2,2,4,3,rrrryGrr,Transition,Transition
+weekday_morning,14,2-2-2-2-2-3,2,2,2,2,2,3,3,rrrrryrr,Transition,Transition
+weekday_morning,15,4-2-2-2-2-5,4,2,2,2,2,5,1,rrrrGyrr,Transition,Transition
+weekday_morning,16,2-2-2-2-2-2,2,2,2,2,2,2,3,rrrrrrrr,Clearance,All-red / clearance

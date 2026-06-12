@@ -1,0 +1,5 @@
+﻿lsa,approach,street_name,detector_ids,direction_type
+LD-LSA9,west,Marienring,"2, 1",inflow
+LD-LSA9,south,Moltkestraße,10,inflow
+LD-LSA9,east,Rheinstraße,"8, 9",inflow
+LD-LSA9,north_west,Ostring,"4, 5",inflow

@@ -1,0 +1,17 @@
+﻿scenario,date,window_start,window_end,approach,detector_ids,demand_veh_per_hour,n_detector_measurements
+weekday_evening,2026-03-23,16:00:00,17:00:00,East,10+11,684,8
+weekday_evening,2026-03-23,16:00:00,17:00:00,North,6+7,255,8
+weekday_evening,2026-03-23,16:00:00,17:00:00,South,1+2+33,408,12
+weekday_evening,2026-03-23,16:00:00,17:00:00,West,3+4,338,8
+weekday_morning,2026-03-10,08:00:00,09:00:00,East,10+11,381,8
+weekday_morning,2026-03-10,08:00:00,09:00:00,North,6+7,166,8
+weekday_morning,2026-03-10,08:00:00,09:00:00,South,1+2+33,443,12
+weekday_morning,2026-03-10,08:00:00,09:00:00,West,3+4,362,8
+weekend_evening,2026-03-22,16:00:00,17:00:00,East,10+11,339,8
+weekend_evening,2026-03-22,16:00:00,17:00:00,North,6+7,144,8
+weekend_evening,2026-03-22,16:00:00,17:00:00,South,1+2+33,283,12
+weekend_evening,2026-03-22,16:00:00,17:00:00,West,3+4,274,8
+weekend_morning,2026-03-14,08:00:00,09:00:00,East,10+11,183,8
+weekend_morning,2026-03-14,08:00:00,09:00:00,North,6+7,82,8
+weekend_morning,2026-03-14,08:00:00,09:00:00,South,1+2+33,197,12
+weekend_morning,2026-03-14,08:00:00,09:00:00,West,3+4,120,8

@@ -1,0 +1,9 @@
+﻿intersection,detector_id,detector_label,bin_label,begin_s,end_s,occupancy_real,occupancy_sim,diff_sim_minus_real,abs_error
+LD-LSA16,13,east_out_id13,00-15,57600,58500,19.0,11.11,-7.890000000000001,7.890000000000001
+LD-LSA16,13,east_out_id13,15-30,58500,59400,17.0,10.4,-6.6,6.6
+LD-LSA16,13,east_out_id13,30-45,59400,60300,22.0,13.91,-8.09,8.09
+LD-LSA16,13,east_out_id13,45-60,60300,61200,20.0,12.83,-7.17,7.17
+LD-LSA16,15,west_out_id15,00-15,57600,58500,8.0,2.42,-5.58,5.58
+LD-LSA16,15,west_out_id15,15-30,58500,59400,5.0,2.33,-2.67,2.67
+LD-LSA16,15,west_out_id15,30-45,59400,60300,17.0,2.84,-14.16,14.16
+LD-LSA16,15,west_out_id15,45-60,60300,61200,20.0,2.94,-17.06,17.06

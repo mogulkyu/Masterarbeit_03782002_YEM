@@ -1,0 +1,25 @@
+<configuration>
+    <input>
+        <net-file value="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\landau_corridor.net.xml"/>
+        <route-files value="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\weekday_evening_sampled.rou.xml"/>
+        <additional-files value="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\traffic_mix.add.xml,C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_detectors_e1.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <processing>
+        <step-length value="0.25"/>
+        <default.action-step-length value="1"/>
+        <ignore-junction-blocker value="15"/>
+        <time-to-teleport value="300"/>
+        <max-depart-delay value="-1"/>
+    </processing>
+
+    <report>
+        <log value="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\sumo_log.txt"/>
+        <error-log value="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\sumo_error.txt"/>
+    </report>
+</configuration>

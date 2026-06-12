@@ -1,0 +1,14 @@
+<configuration>
+        <input>
+            <net-file value="capacity.net.xml"/>
+            <route-files value="capacity.rou.xml"/>
+            <additional-files value="capacity.add.xml"/>
+        </input>
+        <output>
+            <summary-output value="capacity_summary.xml"/>
+        </output>
+        <time>
+            <begin value="0"/>
+            <end value="3600"/>
+        </time>
+    </configuration>

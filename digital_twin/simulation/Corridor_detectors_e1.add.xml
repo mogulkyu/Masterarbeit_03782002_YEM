@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-05-08T12:25:54.420543+01:00 by Eclipse SUMO netedit 1.25.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <inductionLoop id="LSA10_E_id3" lane="75642281_0" pos="36.27" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA10_E_id4" lane="75642281_1" pos="36.36" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA10_NE_id29" lane="-25563346#2_0" pos="63.81" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA10_NW_id2" lane="-13831317#2_0" pos="24.49" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA10_NW_id26" lane="-13831317#2.34_0" pos="13.30" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA10_NW_id27" lane="-13831317#2.34_1" pos="13.32" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA10_S_id31" lane="-1183449794_0" pos="42.81" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA10_W_id1" lane="-202157700#2_0" pos="6.15" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_E_id10" lane="202157700#3_0" pos="45.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_E_id11" lane="202157700#3_1" pos="55.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_E_id14" lane="202157700#0_1" pos="20.40" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_Eout_id13" lane="-202157700#5_0" pos="57.16" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_N_id6" lane="-1182936853_0" pos="67.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_N_id7" lane="-1182936853_1" pos="57.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_S_id1" lane="-202157703_0" pos="22.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_S_id2" lane="-202157703_1" pos="12.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_S_id33" lane="-202157703_2" pos="12.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_W_id3" lane="-26202222#0.41_1" pos="11.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_W_id4" lane="-26202222#0.41_2" pos="11.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_W_id5" lane="-26202222#0_0" pos="35.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA16_Wout_id15" lane="26202222#0_0" pos="38.63" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_E_id13" lane="-59617619_1" pos="5.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_E_id14" lane="-237921040_0" pos="2.30" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_E_id23" lane="-59617619_2" pos="5.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_E_id24" lane="-237921040_1" pos="2.30" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_E_id25" lane="-59617619_3" pos="5.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_E_id26" lane="-237921040_2" pos="2.30" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_E_id27" lane="-59617619_0" pos="5.50" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_N_id28" lane="237921036.41_1" pos="2.90" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_N_id30" lane="237921036.41_2" pos="2.90" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_N_id39" lane="237921036_1" pos="18.29" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_N_id40" lane="237921036.41_0" pos="3.20" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_S_id11" lane="281402235#0_0" pos="3.48" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_S_id12" lane="281402232_1" pos="13.48" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_W_id10" lane="-202234344_0" pos="2.10" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_W_id7" lane="-202234344_1" pos="14.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_W_id8" lane="-202234344_1" pos="2.10" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA1_W_id9" lane="-202234344_0" pos="14.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA9_E_id8" lane="202234068#0_0" pos="52.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA9_E_id9" lane="202234068#0_1" pos="47.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA9_S_id10" lane="-14811373#0_0" pos="52.33" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA9_WE_id4" lane="-14811383#2_0" pos="19.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA9_WE_id5" lane="-14811383#2_1" pos="19.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA9_WE_id6" lane="-14811383#2_0" pos="3.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA9_WE_id7" lane="-14811383#2_1" pos="3.00" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA9_W_id1" lane="-30329931#2_0" pos="24.16" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+    <inductionLoop id="LSA9_W_id2" lane="-30329931#2_1" pos="28.30" period="900.00" file="C:\Users\mogul\OneDrive\Masaüstü\mt_emre\digital_twin\simulation\Corridor_e1_output.xml"/>
+</additional>
